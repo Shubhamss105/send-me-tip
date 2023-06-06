@@ -9,8 +9,8 @@ Users can connect their Ethereum wallet to the DApp and send tips to the owner. 
 To run the DApp locally, you need to install Node.js and the Hardhat development environment. Clone the repository, install the dependencies and start the local development server using the following commands:
 
 ```
-git clone https://github.com/username/tip-sending-dapp.git
-cd tip-sending-dapp
+git clone https://github.com/Shubhamss105/send-me-tip.git
+cd send-me-tip
 npm install
 npm start
 ```
